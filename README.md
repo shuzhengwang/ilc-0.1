@@ -5,9 +5,10 @@ international library of cannabies
 Fix the db.php to connect you host with sql
 
 users 
-admin:
-patient:
-doctor:
-researcher:
+Admin pass is admin
+
+Patient : admin
+ 
+Doctor : admin
 
 
