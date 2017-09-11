@@ -7,5 +7,5 @@ $prefix = "";
 $db = mysqli_connect($mysql_hostname, $mysql_user, $mysql_password,$mysql_database);
 
 
-define("SITEROOT","http://localhost:8080/ilc");
+define("SITEROOT","http://localhost/ilc");
 ?>
